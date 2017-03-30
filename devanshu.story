@@ -1,13 +1,13 @@
 Arithmetic Examples
 
-3 + 4 = 8
+3 + 4 = 7
 
 3 * 4 = 12
 
 English Grammar Examples
 
-He did not came to college today .
+He did not come to college yesterday .
 
 Spelling Mistakes
 
-I m so kewl . I go to bar evrydy and i wrt lk ths .
+I am so cool . I go to bar everyday and I write like this .
