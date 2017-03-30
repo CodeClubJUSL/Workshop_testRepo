@@ -11,3 +11,4 @@ He did not came to college today .
 Spelling Mistakes
 
 I m so kewl . I go to bar evrydy and i wrt lk ths .
+I don't know maths
