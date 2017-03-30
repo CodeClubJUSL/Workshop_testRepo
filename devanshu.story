@@ -6,7 +6,7 @@ Arithmetic Examples
 
 English Grammar Examples
 
-He did not came to college today .
+He did not come to college today .
 
 Spelling Mistakes
 
