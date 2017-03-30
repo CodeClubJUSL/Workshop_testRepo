@@ -1,6 +1,6 @@
 Arithmetic Examples
 
-3 + 4 = 8
+3 + 4 = 12
 
 3 * 4 = 15
 
