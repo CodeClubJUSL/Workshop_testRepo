@@ -4,10 +4,10 @@ Arithmetic Examples
 
 3 * 4 = 12
 
-English Grammar Examples
+English Grammer Examples
 
-He did not came to college today .
+He did not come to college today .
 
 Spelling Mistakes
 
-I m so kewl . I go to bar evrydy and i wrt lk ths .
+I am so awesome that I go to bar everyday and i wrote like this.
